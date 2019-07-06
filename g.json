@@ -65,7 +65,7 @@
    "name": "data",
    "children": [
     {
-     "name": "Topic1",
+     "name": "converters",
      "children": [
       {"name": "Converters", "value": 721},
       {"name": "DelimitedTextConverter", "value": 4294},
@@ -83,7 +83,7 @@
    ]
   },
   {
-   "name": "Topic2",
+   "name": "display",
    "children": [
     {"name": "DirtySprite", "value": 8833},
     {"name": "LineSprite", "value": 1732},
@@ -240,9 +240,7 @@
     {"name": "Strings", "value": 22026}
    ]
   },
-  
- 
- {
+  {
    "name": "vis",
    "children": [
     {
@@ -378,3 +376,5 @@
     {"name": "Visualization", "value": 16540}
    ]
   }
+ ]
+}
