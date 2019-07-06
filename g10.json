@@ -390,39 +390,10 @@
     {"name": "Spring", "value": 2213},
     {"name": "SpringForce", "value": 1681}
    ]
-  },
- 
-  {
-   "name": "Depression and emotional issues",
-   "children": [
-    
-     {
-     "name": "Topic 4",
-     
-      "children": [
-      {"name": "good", "value": 6367},
-      {"name": "fuck", "value": 1229},
-      {"name": "feel", "value": 2059},
-      {"name": "time", "value": 2291}
-      {"name": "peopl", "value": 2291}
-      {"name": "possibl", "value": 2291}
-      {"name": "world", "value": 2291}
-      {"name": "kind", "value": 2291}
-      {"name": "girl", "value": 2291}
-      {"name": "depress", "value": 2291}
-   
-     ]
-    }
+  }
   
-              
-
-    
-    
-    
-    
-    
-   ]
-  },
+  
+  ,
   {
    "name": "vis",
    "children": [
