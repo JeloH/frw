@@ -634,41 +634,10 @@
       {"name": "LegendRange", "value": 10530}
      ]
     },
-    
    
-    
-    {
-     "name": "operator",
-     "children": [
-      {
-       "name": "distortion",
-       "children": [
-        {"name": "BifocalDistortion", "value": 4461},
-        {"name": "Distortion", "value": 6314},
-        {"name": "FisheyeDistortion", "value": 3444}
-       ]
-      }
-      ,
-      {"name": "IOperator", "value": 1286},
-      {
-       "name": "label",
-       "children": [
-        {"name": "Labeler", "value": 9956},
-        {"name": "RadialLabeler", "value": 3899},
-        {"name": "StackedAreaLabeler", "value": 3202}
-       ]
-      },
-    
-      {"name": "Operator", "value": 2490},
-      {"name": "OperatorList", "value": 5248},
-      {"name": "OperatorSequence", "value": 4190},
-      {"name": "OperatorSwitch", "value": 2581},
-      {"name": "SortOperator", "value": 2023}
-     ]
-    }
-    
-    ,
     {"name": "Visualization", "value": 16540}
+    
+    
    ]
   }
  ]
