@@ -537,27 +537,7 @@
 
      ]
     }
-
-
-  ,
-  
-  
-  
-  
-  
-  {
-   "name": "physics",
-   "children": [
-    {"name": "DragForce", "value": 1082},
-    {"name": "GravityForce", "value": 1336},
-    {"name": "IForce", "value": 319},
-    {"name": "NBodyForce", "value": 10498},
-    {"name": "Particle", "value": 2822},
-    {"name": "Simulation", "value": 9983},
-    {"name": "Spring", "value": 2213},
-    {"name": "SpringForce", "value": 1681}
-   ]
-  },
+,
  
   {
    "name": "util",
