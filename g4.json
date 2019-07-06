@@ -1,9 +1,9 @@
 ﻿{
- "name": "Relationships issues, inceldom",
+ "name": "Hilight Latent Topics",
  "children": [
   {
    
-   "name": "vis2",
+   "name": "Relationships issues, inceldom",
    "children": [
     {
            
@@ -50,6 +50,309 @@
   ,
   
  
+  
+  
+  
+  
+  
+  
+  "name": "Curse, Swear-words",
+   "children": [
+    {
+           
+     "name": "Topic 12",
+     "children": [
+      {"name": "peopl", "value": 3938},
+      {"name": "cuck", "value": 3812},
+      {"name": "fuck", "value": 6714},
+      {"name": "shit", "value": 743},
+      {"name": "incel", "value": 743},
+      {"name": "feel", "value": 743},
+      {"name": "work", "value": 743},
+      {"name": "good", "value": 743},
+      {"name": "doe", "value": 743},
+      {"name": "person", "value": 743}
+      
+              
+ 
+      
+     ]
+    },
+    
+    
+    {
+     "name": "Topic 56",
+     "children": [
+      {"name": "fuck", "value": 3534},
+      {"name": "back", "value": 5731},
+      {"name": "start", "value": 7840},
+      {"name": "feel", "value": 5914},
+      {"name": "good", "value": 3416},
+      {"name": "na", "value": 3416},
+      {"name": "shit", "value": 3416},
+      {"name": "man", "value": 3416},
+      {"name": "time", "value": 3416},
+      {"name": "person", "value": 3416}
+      
+                
+
+     ]
+    }
+
+,
+    
+    
+    {
+     "name": "Topic 49",
+     "children": [
+      {"name": "fuck", "value": 3534},
+      {"name": "life", "value": 5731},
+      {"name": "girl", "value": 7840},
+      {"name": "cuck", "value": 5914},
+      {"name": "shit", "value": 3416},
+      {"name": "guy", "value": 3416},
+      {"name": "hope", "value": 3416},
+      {"name": "school", "value": 3416},
+      {"name": "black", "value": 3416},
+      {"name": "time", "value": 3416}
+      
+                
+
+     ]
+    }
+  
+     ]
+    }
+  
+  ,
+  
+
+           
+ 
+
+
+
+
+
+
+"name": "vis2",
+   "children": [
+    {
+           
+     "name": "Topic 83",
+     "children": [
+      {"name": "life", "value": 3938},
+      {"name": "incel", "value": 3812},
+      {"name": "peopl", "value": 6714},
+      {"name": "guy", "value": 743},
+      {"name": "normi", "value": 743},
+      {"name": "love", "value": 743},
+      {"name": "women", "value": 743},
+      {"name": "fuck", "value": 743},
+      {"name": "femal", "value": 743},
+      {"name": "hate", "value": 743}
+      
+      
+      
+     ]
+    },
+    
+    
+    {
+     "name": "Topic 45",
+     "children": [
+      {"name": "foid", "value": 3534},
+      {"name": "incel", "value": 5731},
+      {"name": "men", "value": 7840},
+      {"name": "iq", "value": 5914},
+      {"name": "work", "value": 3416},
+      {"name": "cuck", "value": 3416},
+      {"name": "chad", "value": 3416},
+      {"name": "women", "value": 3416},
+      {"name": "high", "value": 3416},
+      {"name": "low", "value": 3416}
+      
+      
+     ]
+    }
+  
+     ]
+    }
+  
+  ,
+  
+
+
+
+
+
+
+
+
+
+
+
+"name": "vis2",
+   "children": [
+    {
+           
+     "name": "Topic 83",
+     "children": [
+      {"name": "life", "value": 3938},
+      {"name": "incel", "value": 3812},
+      {"name": "peopl", "value": 6714},
+      {"name": "guy", "value": 743},
+      {"name": "normi", "value": 743},
+      {"name": "love", "value": 743},
+      {"name": "women", "value": 743},
+      {"name": "fuck", "value": 743},
+      {"name": "femal", "value": 743},
+      {"name": "hate", "value": 743}
+      
+      
+      
+     ]
+    },
+    
+    
+    {
+     "name": "Topic 45",
+     "children": [
+      {"name": "foid", "value": 3534},
+      {"name": "incel", "value": 5731},
+      {"name": "men", "value": 7840},
+      {"name": "iq", "value": 5914},
+      {"name": "work", "value": 3416},
+      {"name": "cuck", "value": 3416},
+      {"name": "chad", "value": 3416},
+      {"name": "women", "value": 3416},
+      {"name": "high", "value": 3416},
+      {"name": "low", "value": 3416}
+      
+      
+     ]
+    }
+  
+     ]
+    }
+  
+  ,
+  
+
+
+
+
+
+
+
+
+
+
+"name": "vis2",
+   "children": [
+    {
+           
+     "name": "Topic 83",
+     "children": [
+      {"name": "life", "value": 3938},
+      {"name": "incel", "value": 3812},
+      {"name": "peopl", "value": 6714},
+      {"name": "guy", "value": 743},
+      {"name": "normi", "value": 743},
+      {"name": "love", "value": 743},
+      {"name": "women", "value": 743},
+      {"name": "fuck", "value": 743},
+      {"name": "femal", "value": 743},
+      {"name": "hate", "value": 743}
+      
+      
+      
+     ]
+    },
+    
+    
+    {
+     "name": "Topic 45",
+     "children": [
+      {"name": "foid", "value": 3534},
+      {"name": "incel", "value": 5731},
+      {"name": "men", "value": 7840},
+      {"name": "iq", "value": 5914},
+      {"name": "work", "value": 3416},
+      {"name": "cuck", "value": 3416},
+      {"name": "chad", "value": 3416},
+      {"name": "women", "value": 3416},
+      {"name": "high", "value": 3416},
+      {"name": "low", "value": 3416}
+      
+      
+     ]
+    }
+  
+     ]
+    }
+  
+  ,
+  
+
+
+
+
+
+
+"name": "vis2",
+   "children": [
+    {
+           
+     "name": "Topic 83",
+     "children": [
+      {"name": "life", "value": 3938},
+      {"name": "incel", "value": 3812},
+      {"name": "peopl", "value": 6714},
+      {"name": "guy", "value": 743},
+      {"name": "normi", "value": 743},
+      {"name": "love", "value": 743},
+      {"name": "women", "value": 743},
+      {"name": "fuck", "value": 743},
+      {"name": "femal", "value": 743},
+      {"name": "hate", "value": 743}
+      
+      
+      
+     ]
+    },
+    
+    
+    {
+     "name": "Topic 45",
+     "children": [
+      {"name": "foid", "value": 3534},
+      {"name": "incel", "value": 5731},
+      {"name": "men", "value": 7840},
+      {"name": "iq", "value": 5914},
+      {"name": "work", "value": 3416},
+      {"name": "cuck", "value": 3416},
+      {"name": "chad", "value": 3416},
+      {"name": "women", "value": 3416},
+      {"name": "high", "value": 3416},
+      {"name": "low", "value": 3416}
+      
+      
+     ]
+    }
+  
+     ]
+    }
+  
+  ,
+  
+
+
+
+  
+  
+  
+  
   
   {
    "name": "physics",
