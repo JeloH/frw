@@ -65,7 +65,7 @@
    "name": "data",
    "children": [
     {
-     "name": "converters",
+     "name": "Topic1",
      "children": [
       {"name": "Converters", "value": 721},
       {"name": "DelimitedTextConverter", "value": 4294},
@@ -83,7 +83,7 @@
    ]
   },
   {
-   "name": "display",
+   "name": "Topic2",
    "children": [
     {"name": "DirtySprite", "value": 8833},
     {"name": "LineSprite", "value": 1732},
