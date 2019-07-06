@@ -614,28 +614,9 @@
       {"name": "TooltipControl", "value": 8435}
      ]
     },
-    {
-     "name": "data",
-     "children": [
-      {"name": "Data", "value": 20544},
-      {"name": "DataList", "value": 19788},
-      {"name": "DataSprite", "value": 10349},
-      {"name": "EdgeSprite", "value": 3301},
-      {"name": "NodeSprite", "value": 19382},
-      {
-       "name": "render",
-       "children": [
-        {"name": "ArrowType", "value": 698},
-        {"name": "EdgeRenderer", "value": 5569},
-        {"name": "IRenderer", "value": 353},
-        {"name": "ShapeRenderer", "value": 2247}
-       ]
-      },
-      {"name": "ScaleBinding", "value": 11275},
-      {"name": "Tree", "value": 7147},
-      {"name": "TreeBuilder", "value": 9930}
-     ]
-    },
+    
+    
+    
     {
      "name": "events",
      "children": [
@@ -653,6 +634,8 @@
       {"name": "LegendRange", "value": 10530}
      ]
     },
+    
+   
     
     {
      "name": "operator",
