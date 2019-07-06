@@ -22,6 +22,8 @@
       
      ]
     },
+    
+    
     {
      "name": "Topic 45",
      "children": [
@@ -38,13 +40,8 @@
       
       
      ]
-    },
-    {
-     "name": "optimization",
-     "children": [
-      {"name": "AspectRatioBanker", "value": 7074}
-     ]
     }
+    
    ]
   },
   {
