@@ -1,4 +1,4 @@
-﻿{
+{
  "name": "flare",
  "children": [
   {
@@ -82,115 +82,15 @@
     {"name": "DataUtil", "value": 3322}
    ]
   },
-
-
-
   {
    "name": "display",
    "children": [
     {"name": "DirtySprite", "value": 8833},
     {"name": "LineSprite", "value": 1732},
     {"name": "RectSprite", "value": 3623},
-    {"name": "TextSprite", "value": 10066}]
+    {"name": "TextSprite", "value": 10066}
+   ]
   },
-
-
-
-
-
-
-  {
-   "name": "Topic 1",
-   "children": [
-    {"name": "DirtySprite", "value": 8833},
-    {"name": "LineSprite", "value": 1732},
-    {"name": "RectSprite", "value": 3623},
-    {"name": "TextSprite", "value": 10066}]
-  },
-
-
-
-
-
-  {
-   "name": "Topic 2",
-   "children": [
-    {"name": "DirtySprite", "value": 8833},
-    {"name": "LineSprite", "value": 1732},
-    {"name": "RectSprite", "value": 3623},
-    {"name": "TextSprite", "value": 10066}]
-  },
-
-
-
-
-  {
-   "name": "Topic 3",
-   "children": [
-    {"name": "fuck", "value": 8833},
-    {"name": "shit", "value": 1732},
-    {"name": "good ", "value": 3623},
-    {"name": "kill", "value": 10066}]
-    {"name": "die", "value": 10066}]
-    {"name": "friend", "value": 10066}]
-    {"name": "onc", "value": 10066}]
-    {"name": "man", "value": 10066}]
-    {"name": "feel", "value": 10066}]
-    {"name": "school", "value": 10066}]
-
-  },
-
-
-
-
-
-
-  {
-   "name": "Topic 4",
-   "children": [
-    {"name": "fuck", "value": 8833},
-    {"name": "shit", "value": 1732},
-    {"name": "good ", "value": 3623},
-    {"name": "kill", "value": 10066}]
-    {"name": "die", "value": 10066}]
-    {"name": "friend", "value": 10066}]
-    {"name": "onc", "value": 10066}]
-    {"name": "man", "value": 10066}]
-    {"name": "feel", "value": 10066}]
-    {"name": "school", "value": 10066}]
-
-  },
-
-
-
-
-
-
-
-  {
-   "name": "Topic 5",
-   "children": [
-    {"name": "fuck", "value": 8833},
-    {"name": "shit", "value": 1732},
-    {"name": "good ", "value": 3623},
-    {"name": "kill", "value": 10066}]
-    {"name": "die", "value": 10066}]
-    {"name": "friend", "value": 10066}]
-    {"name": "onc", "value": 10066}]
-    {"name": "man", "value": 10066}]
-    {"name": "feel", "value": 10066}]
-    {"name": "school", "value": 10066}]
-
-  },
-
-
-
-
-
-
-
-
-
   {
    "name": "flex",
    "children": [
