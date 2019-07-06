@@ -2,8 +2,7 @@
  "name": "Hilight Latent Topics",
  "children": [
   {
-   
-   "name": "Relationships issues, inceldom",
+      "name": "Relationships issues, inceldom",
    "children": [
     {
            
@@ -52,6 +51,53 @@
 
 
 
+  
+   {
+      "name": "Relationships issues, inceldom",
+   "children": [
+    {
+           
+     "name": "Topic 83",
+     "children": [
+      {"name": "life", "value": 3938},
+      {"name": "incel", "value": 3812},
+      {"name": "peopl", "value": 6714},
+      {"name": "guy", "value": 743},
+      {"name": "normi", "value": 743},
+      {"name": "love", "value": 743},
+      {"name": "women", "value": 743},
+      {"name": "fuck", "value": 743},
+      {"name": "femal", "value": 743},
+      {"name": "hate", "value": 743}
+      
+      
+      
+     ]
+    },
+    
+    
+    {
+     "name": "Topic 45",
+     "children": [
+      {"name": "foid", "value": 3534},
+      {"name": "incel", "value": 5731},
+      {"name": "men", "value": 7840},
+      {"name": "iq", "value": 5914},
+      {"name": "work", "value": 3416},
+      {"name": "cuck", "value": 3416},
+      {"name": "chad", "value": 3416},
+      {"name": "women", "value": 3416},
+      {"name": "high", "value": 3416},
+      {"name": "low", "value": 3416}
+      
+      
+     ]
+    }
+  
+     ]
+    }
+
+  ,
   
   
   
@@ -184,6 +230,7 @@
       {"name": "LegendRange", "value": 10530}
      ]
     },
+    
     {
      "name": "operator",
      "children": [
