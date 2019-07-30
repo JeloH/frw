@@ -5,19 +5,27 @@
       "name": "Relationships issues, inceldom",
    "children": [
     {    
-     "name": "Topic 83",
+     "name": "Topic 477",
      "children": [
-      {"name": "life", "value": 3938},
-      {"name": "incel", "value": 3812},
-      {"name": "peopl", "value": 6714},
-      {"name": "guy", "value": 743},
-      {"name": "normi", "value": 743},
-      {"name": "love", "value": 743},
-      {"name": "women", "value": 743},
-      {"name": "fuck", "value": 743},
-      {"name": "femal", "value": 743},
-      {"name": "hate", "value": 743}
-      
+ {"name": "alcohol", "value": 3938},
+      {"name": "drink", "value": 3812},
+      {"name": "years", "value": 6714}, 
+      {"name": "stop", "value": 6714}, 
+      {"name": "drinker", "value": 6714}, 
+      {"name": "bed", "value": 6714}, 
+      {"name": "put", "value": 6714}, 
+      {"name": "big", "value": 6714}, 
+      {"name": "amount", "value": 6714}, 
+      {"name": "step", "value": 6714}, 
+      {"name": "coming", "value": 6714}, 
+      {"name": "worried", "value": 6714}, 
+      {"name": "forward", "value": 6714}, 
+      {"name": "realise", "value": 6714}, 
+      {"name": "safe", "value": 6714}, 
+      {"name": "gp", "value": 6714}, 
+      {"name": "finally", "value": 6714}, 
+      {"name": "lovely", "value": 6714}, 
+      {"name": "option", "value": 6714} 
       
       
      ]
