@@ -183,6 +183,49 @@
   
   
    {
+      "name": "Secind Rank",
+   "children": [
+    {
+           
+      "name": "Topic 97",
+     "children": [
+    {"name": "feel", "value": 3534},
+      {"name": "great", "value": 5731},
+      {"name": "long", "value": 7840},
+      {"name": "made", "value": 5914},
+      {"name": "read", "value": 3416},
+      {"name": "person", "value": 3416},
+      {"name": "thought", "value": 3416},
+      {"name": "helped", "value": 3416},
+      {"name": "plan", "value": 3416},
+      {"name": "rest", "value": 3416},
+      {"name": "speak", "value": 3416},
+      {"name": "food", "value": 3416},
+      {"name": "system", "value": 3416},
+      {"name": "complete", "value": 3416},
+      {"name": "plenty", "value": 3416},
+      {"name": "supportive", "value": 3416},
+      {"name": "possibly", "value": 3416},
+      {"name": "spend", "value": 3416},
+      {"name": "feels", "value": 3416},
+      {"name": "continued", "value": 3416}
+      
+                 
+ 
+      
+      
+     ]
+    }
+     ]
+    } ,
+  
+  
+  
+  
+  
+  
+   
+   {
       "name": "Finansial issues / Sex sell",
    "children": [
     {
@@ -205,31 +248,78 @@
       
       
      ]
+    }
+  
+     ]
     },
-    
-    
+  
+  
+  
+  
+  
+   
+   {
+      "name": "Finansial issues / Sex sell",
+   "children": [
     {
-     "name": "Topic 74",
+           
+      "name": "Topic 97",
      "children": [
-      {"name": "chad", "value": 3534},
-      {"name": "women", "value": 5731},
-      {"name": "life", "value": 7840},
-      {"name": "sex", "value": 5914},
-      {"name": "men", "value": 3416},
-      {"name": "cuck", "value": 3416},
-      {"name": "male", "value": 3416},
-      {"name": "fuck", "value": 3416},
-      {"name": "live", "value": 3416},
-      {"name": "money", "value": 3416}
+      {"name": "good", "value": 3938},
+      {"name": "day", "value": 3812},
+      {"name": "fuck", "value": 6714},
+      {"name": "time", "value": 743},
+      {"name": "man", "value": 743},
+      {"name": "real", "value": 743},
+      {"name": "befor", "value": 743},
+      {"name": "free", "value": 743},
+      {"name": "end", "value": 743},
+      {"name": "pay", "value": 743}
       
-                
-          
-
+                 
+ 
+      
+      
+     ]
+    }
+  
+     ]
+    },
+  
+  
+  
+  
+   
+   {
+      "name": "Finansial issues / Sex sell",
+   "children": [
+    {
+           
+      "name": "Topic 97",
+     "children": [
+      {"name": "good", "value": 3938},
+      {"name": "day", "value": 3812},
+      {"name": "fuck", "value": 6714},
+      {"name": "time", "value": 743},
+      {"name": "man", "value": 743},
+      {"name": "real", "value": 743},
+      {"name": "befor", "value": 743},
+      {"name": "free", "value": 743},
+      {"name": "end", "value": 743},
+      {"name": "pay", "value": 743}
+      
+                 
+ 
+      
+      
      ]
     }
   
      ]
     }
+
+
+
 
   
   
