@@ -35,23 +35,8 @@
           {"name": "feel  ", "value": 6714},
           {"name": "wow  ", "value": 6714},
           {"name": "work  ", "value": 6714},
-          {"name": "life  ", "value": 6714},
-  
+          {"name": "life  ", "value": 6714}
       
-      
-      
-      
-      
-      {"name": "life", "value": 3938},
-      {"name": "incel", "value": 3812},
-      {"name": "peopl", "value": 6714},
-      {"name": "guy", "value": 743},
-      {"name": "normi", "value": 743},
-      {"name": "love", "value": 743},
-      {"name": "women", "value": 743},
-      {"name": "fuck", "value": 743},
-      {"name": "femal", "value": 743},
-      {"name": "hate", "value": 743}
       
       
       
@@ -62,16 +47,34 @@
     {    
      "name": "Topic 45",
      "children": [
-      {"name": "chad", "value": 3938},
-      {"name": "women", "value": 3812},
-      {"name": "men", "value": 6714},
-      {"name": "guy", "value": 743},
-      {"name": "iq", "value": 743},
-      {"name": "male", "value": 743},
-      {"name": "incel", "value": 743},
-      {"name": "girl", "value": 743},
-      {"name": "cope", "value": 743},
-      {"name": "low", "value": 743}
+ 
+      
+      
+ {   {"name": "peopl ", "value": 3534},
+     {"name": "watch ", "value": 5731},
+      {"name": "comment ", "value": 7840},
+      {"name": "hate ", "value": 5914},
+      {"name": "befor ", "value": 3416},
+      {"name": "time ", "value": 3416},
+      {"name": "mani ", "value": 3416},
+      {"name": "man ", "value": 3416},
+      {"name": "happen ", "value": 3416},
+      {"name": "stop ", "value": 3416},
+      {"name": "interest ", "value": 3416},
+      {"name": "pretti ", "value": 3416},
+      {"name": "hell ", "value": 3416},
+      {"name": "person ", "value": 3416},
+
+
+      {"name": "die ", "value": 3416},
+      {"name": "mind ", "value": 3416},
+      {"name": "talk ", "value": 3416},
+      {"name": "start ", "value": 3416},
+
+      {"name": "day ", "value": 3416},
+      {"name": "men ", "value": 3416}
+      
+      
       
               
 
