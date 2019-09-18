@@ -87,16 +87,40 @@
     {
      "name": "Topic 42",
      "children": [
-      {"name": "foid", "value": 3534},
-      {"name": "incel", "value": 5731},
-      {"name": "men", "value": 7840},
-      {"name": "iq", "value": 5914},
-      {"name": "work", "value": 3416},
-      {"name": "cuck", "value": 3416},
-      {"name": "chad", "value": 3416},
-      {"name": "women", "value": 3416},
-      {"name": "high", "value": 3416},
-      {"name": "low", "value": 3416}
+      
+      
+      
+
+      {"name": "actor ", "value": 3938},
+      {"name": "guy ", "value": 3812},
+      {"name": "hope ", "value": 3812},
+      {"name": "director ", "value": 3812},
+
+      {"name": "music ", "value": 3812},
+      {"name": "act ", "value": 3812},
+      {"name": "bore ", "value": 3812},
+
+      {"name": "great ", "value": 3812},
+      {"name": "sound ", "value": 3812},
+      {"name": "time ", "value": 3812},
+      {"name": "day ", "value": 3812},
+      {"name": "cinema ", "value": 3812},
+      {"name": "theater ", "value": 3812},
+
+
+      {"name": "big ", "value": 3812},
+      {"name": "save ", "value": 3812},
+
+      {"name": "song ", "value": 3812},
+      {"name": "shot ", "value": 3812},
+
+      {"name": "money ", "value": 3812},
+      {"name": "role ", "value": 3812},
+      {"name": "job", "value": 3812}
+                 
+
+      
+      
       
       
      ]
