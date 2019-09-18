@@ -1,0 +1,662 @@
+{
+ "name": "Hilight Latent Topics",
+ "children": [
+  {
+      "name": "Relationships issues, inceldom",
+   "children": [
+    {    
+     "name": "Topic 83",
+     "children": [
+
+
+      {"name": "movi", "value": 3938},
+      {"name": film ", "value": 3812},
+      {"name": "watch ", "value": 6714}, 
+      {"name": "trailer ", "value": 6714}, 
+      {"name": "good  ", "value": 6714}, 
+      {"name": "love ", "value": 6714}, 
+
+      {"name": "wait ", "value": 6714}, 
+      {"name": "great ", "value": 6714}, 
+      {"name": "amaz   ", "value": 6714}, 
+
+      {"name": "stori  ", "value": 6714},
+  
+   
+      {"name": " god ", "value": 6714},
+      {"name": "time  ", "value": 6714},
+      {"name": "play  ", "value": 6714},
+      {"name": "pleas  ", "value": 6714},
+      {"name": "bad  ", "value": 6714},
+      {"name": "fuck  ", "value": 6714},
+    
+          {"name": "feel  ", "value": 6714},
+          {"name": "wow  ", "value": 6714},
+          {"name": "work  ", "value": 6714},
+          {"name": "life  ", "value": 6714}
+  
+
+      
+     ]
+    },
+    
+    
+    {    
+     "name": "Topic 45",
+     "children": [
+     
+
+
+
+
+ {"name": "peopl ", "value": 3534},
+     {"name": "watch ", "value": 5731},
+      {"name": "comment ", "value": 7840},
+      {"name": "hate ", "value": 5914},
+      {"name": "befor ", "value": 3416},
+      {"name": "time ", "value": 3416},
+      {"name": "mani ", "value": 3416},
+      {"name": "man ", "value": 3416},
+      {"name": "happen ", "value": 3416},
+      {"name": "stop ", "value": 3416},
+      {"name": "interest ", "value": 3416},
+      {"name": "pretti ", "value": 3416},
+      {"name": "hell ", "value": 3416},
+      {"name": "person ", "value": 3416},
+
+
+      {"name": "die ", "value": 3416},
+      {"name": "mind ", "value": 3416},
+      {"name": "talk ", "value": 3416},
+      {"name": "start ", "value": 3416},
+
+      {"name": "day ", "value": 3416},
+      {"name": "men ", "value": 3416}
+      
+
+
+
+
+
+
+              
+
+      
+     ]
+    },
+    
+    
+    
+    {
+     "name": "Topic 42",
+     "children": [
+    
+
+
+
+
+      {"name": "actor ", "value": 3938},
+      {"name": "guy ", "value": 3812},
+      {"name": "hope ", "value": 3812},
+      {"name": "director ", "value": 3812},
+
+      {"name": "music ", "value": 3812},
+      {"name": "act ", "value": 3812},
+      {"name": "bore ", "value": 3812},
+
+      {"name": "great ", "value": 3812},
+      {"name": "sound ", "value": 3812},
+      {"name": "time ", "value": 3812},
+      {"name": "day ", "value": 3812},
+      {"name": "cinema ", "value": 3812},
+      {"name": "theater ", "value": 3812},
+
+
+      {"name": "big ", "value": 3812},
+      {"name": "save ", "value": 3812},
+
+      {"name": "song ", "value": 3812},
+      {"name": "shot ", "value": 3812},
+
+      {"name": "money ", "value": 3812},
+      {"name": "role ", "value": 3812},
+      {"name": "job", "value": 3812}
+                 
+
+ 
+      
+     ]
+    }
+  
+     ]
+    }
+
+  ,
+  
+
+
+
+  
+   {
+      "name": "Curse, Swear-words",
+   "children": [
+    {
+           
+      "name": "Topic 12",
+     "children": [
+
+
+
+
+
+
+
+ {"name": "shit", "value": 3938},
+
+      {"name": "girl ", "value": 3812},
+
+      {"name": "feel ", "value": 3812},
+
+      {"name": "plot ", "value": 3812},
+
+      {"name": "suppos ", "value": 3812},
+
+
+      {"name": "friend ", "value": 3812},
+
+
+      {"name": "weird ", "value": 3812},
+
+
+      {"name": "glad ", "value": 3812},
+
+
+      {"name": "women ", "value": 3812},
+
+
+      {"name": "dumb ", "value": 3812},
+
+      {"name": "definit ", "value": 3812},
+
+
+      {"name": "confus ", "value": 3812},
+
+
+      {"name": "honestli ", "value": 3812},
+
+
+      {"name": "relat ", "value": 3812},
+      {"name": "night", "value": 3812},
+
+
+
+
+      {"name": "kinda ", "value": 3812},
+      {"name": "spoil", "value": 3812},
+
+
+
+      {"name": "joke ", "value": 3812},
+      {"name": "eye", "value": 3812},
+
+
+      {"name": "type ", "value": 3812}
+
+
+
+
+      
+      
+     ]
+    },
+    
+    
+    
+      {
+           
+      "name": "Topic 49",
+     "children": [
+      {"name": "fuck", "value": 3938},
+      {"name": "life", "value": 3812},
+      {"name": "girl", "value": 6714},
+      {"name": "cuck", "value": 743},
+      {"name": "shit", "value": 743},
+      {"name": "guy", "value": 743},
+      {"name": "hope", "value": 743},
+      {"name": "school", "value": 743},
+      {"name": "black", "value": 743},
+      {"name": "time", "value": 743}
+      
+       
+                
+
+      
+     ]
+    },
+    
+    {
+     "name": "Topic 56",
+     "children": [
+      {"name": "fuck", "value": 3534},
+      {"name": "back", "value": 5731},
+      {"name": "start", "value": 7840},
+      {"name": "feel", "value": 5914},
+      {"name": "good", "value": 3416},
+      {"name": "na", "value": 3416},
+      {"name": "shit", "value": 3416},
+      {"name": "man", "value": 3416},
+      {"name": "time", "value": 3416},
+      {"name": "person", "value": 3416}
+      
+      
+     ]
+    }
+  
+     ]
+    }
+
+  ,
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+   {
+      "name": "Human sexuality",
+   "children": [
+    {
+           
+      "name": "Topic 35",
+     "children": [
+      {"name": "fuck", "value": 3938},
+      {"name": "life", "value": 3812},
+      {"name": "cope", "value": 6714},
+      {"name": "sex", "value": 743},
+      {"name": "dick", "value": 743},
+      {"name": "face", "value": 743},
+      {"name": "big", "value": 743},
+      {"name": "work", "value": 743},
+      {"name": "doe", "value": 743},
+      {"name": "problem", "value": 743}
+      
+                 
+
+      
+      
+     ]
+    },
+    
+    
+    {
+     "name": "Topic 39",
+     "children": [
+      {"name": "fuck", "value": 3534},
+      {"name": "girl", "value": 5731},
+      {"name": "chad", "value": 7840},
+      {"name": "cuck", "value": 5914},
+      {"name": "peopl", "value": 3416},
+      {"name": "sex", "value": 3416},
+      {"name": "faggot", "value": 3416},
+      {"name": "love", "value": 3416},
+      {"name": "femal", "value": 3416},
+      {"name": "shit", "value": 3416}
+      
+                
+
+     ]
+    }
+  
+     ]
+    }
+
+  ,
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+   {
+      "name": "Depression",
+   "children": [
+    {
+           
+      "name": "Topic 4",
+     "children": [
+      {"name": "good", "value": 3938},
+      {"name": "fuck", "value": 3812},
+      {"name": "feel", "value": 6714},
+      {"name": "time", "value": 743},
+      {"name": "peopl", "value": 743},
+      {"name": "possibl", "value": 743},
+      {"name": "world", "value": 743},
+      {"name": "kind", "value": 743},
+      {"name": "girl", "value": 743},
+      {"name": "depress", "value": 743}
+      
+                 
+
+                
+
+      
+     ]
+    }
+  
+     ]
+    }
+
+  ,
+  
+  
+  
+  
+  
+   {
+      "name": "Life Story",
+   "children": [
+    {
+           
+      "name": "Topic 2",
+     "children": [
+      {"name": "day", "value": 3938},
+      {"name": "doe", "value": 3812},
+      {"name": "time", "value": 6714},
+      {"name": "live", "value": 743},
+      {"name": "eat", "value": 743},
+      {"name": "shit", "value": 743},
+      {"name": "love", "value": 743},
+      {"name": "talk", "value": 743},
+      {"name": "peopl", "value": 743},
+      {"name": "start", "value": 743}
+      
+                 
+            
+
+                
+
+      
+     ]
+    }
+  
+     ]
+    }
+
+  ,
+  
+  
+  
+  
+  
+  
+  
+  
+  
+   {
+      "name": "Good/Bad looking",
+   "children": [
+    {
+           
+      "name": "Topic 77",
+     "children": [
+      {"name": "face", "value": 3938},
+      {"name": "chad", "value": 3812},
+      {"name": "height", "value": 6714},
+      {"name": "guy", "value": 743},
+      {"name": "averag", "value": 743},
+      {"name": "manlet", "value": 743},
+      {"name": "fakecel", "value": 743},
+      {"name": "cope", "value": 743},
+      {"name": "ugli", "value": 743},
+      {"name": "high", "value": 743}
+      
+                 
+            
+            
+
+                
+
+      
+     ]
+    }
+  
+     ]
+    }
+
+  ,
+  
+
+  
+
+  
+  
+  
+  
+   {
+      "name": "Frinds",
+   "children": [
+    {
+           
+      "name": "Topic 64",
+     "children": [
+      {"name": "friend", "value": 3938},
+      {"name": "school", "value": 3812},
+      {"name": "good", "value": 6714},
+      {"name": "time", "value": 743},
+      {"name": "life", "value": 743},
+      {"name": "social", "value": 743},
+      {"name": "kid", "value": 743},
+      {"name": "cope", "value": 743},
+      {"name": "mani", "value": 743},
+      {"name": "peopl", "value": 743}
+      
+                           
+
+            
+            
+
+                
+
+      
+     ]
+    }
+  
+     ]
+    }
+
+  ,
+  
+
+  
+
+  
+  
+  
+  
+  
+   {
+      "name": "Finansial issues / Sex sell",
+   "children": [
+    {
+           
+      "name": "Topic 97",
+     "children": [
+      {"name": "good", "value": 3938},
+      {"name": "day", "value": 3812},
+      {"name": "fuck", "value": 6714},
+      {"name": "time", "value": 743},
+      {"name": "man", "value": 743},
+      {"name": "real", "value": 743},
+      {"name": "befor", "value": 743},
+      {"name": "free", "value": 743},
+      {"name": "end", "value": 743},
+      {"name": "pay", "value": 743}
+      
+                 
+ 
+      
+      
+     ]
+    },
+    
+    
+    {
+     "name": "Topic 74",
+     "children": [
+      {"name": "chad", "value": 3534},
+      {"name": "women", "value": 5731},
+      {"name": "life", "value": 7840},
+      {"name": "sex", "value": 5914},
+      {"name": "men", "value": 3416},
+      {"name": "cuck", "value": 3416},
+      {"name": "male", "value": 3416},
+      {"name": "fuck", "value": 3416},
+      {"name": "live", "value": 3416},
+      {"name": "money", "value": 3416}
+      
+                
+          
+
+     ]
+    }
+  
+     ]
+    }
+
+  ,
+  
+  
+  
+  
+  
+  
+  
+  
+  
+   {
+      "name": "Racism",
+   "children": [
+    {
+           
+      "name": "Topic 25",
+     "children": [
+      {"name": "white", "value": 3938},
+      {"name": "women", "value": 3812},
+      {"name": "eye", "value": 6714},
+      {"name": "guy", "value": 743},
+      {"name": "hair", "value": 743},
+      {"name": "shit", "value": 743},
+      {"name": "approach", "value": 743},
+      {"name": "ugli", "value": 743},
+      {"name": "asian", "value": 743},
+      {"name": "black", "value": 743}
+      
+                 
+
+      
+      
+     ]
+    },
+    
+    
+    
+      {
+           
+      "name": "Topic 98",
+     "children": [
+      {"name": "white", "value": 3938},
+      {"name": "women", "value": 3812},
+      {"name": "ethnic", "value": 6714},
+      {"name": "black", "value": 743},
+      {"name": "guy", "value": 743},
+      {"name": "men", "value": 743},
+      {"name": "race", "value": 743},
+      {"name": "cuck", "value": 743},
+      {"name": "cope", "value": 743},
+      {"name": "chad", "value": 743}
+      
+       
+                
+          
+
+      
+     ]
+    },
+    
+    {
+     "name": "Topic 89",
+     "children": [
+      {"name": "white", "value": 3534},
+      {"name": "women", "value": 5731},
+      {"name": "race", "value": 7840},
+      {"name": "guy", "value": 5914},
+      {"name": "black", "value": 3416},
+      {"name": "live", "value": 3416},
+      {"name": "ethnic", "value": 3416},
+      {"name": "asian", "value": 3416},
+      {"name": "fuck", "value": 3416},
+      {"name": "men", "value": 3416}
+      
+                
+
+     ]
+    }
+  ,
+    
+       {
+     "name": "Topic 93",
+     "children": [
+      {"name": "white", "value": 3534},
+      {"name": "countri", "value": 5731},
+      {"name": "incel", "value": 7840},
+      {"name": "jew", "value": 5914},
+      {"name": "world", "value": 3416},
+      {"name": "race", "value": 3416},
+      {"name": "german", "value": 3416},
+      {"name": "war", "value": 3416},
+      {"name": "live", "value": 3416},
+      {"name": "happen", "value": 3416}
+      
+                   
+       
+
+     ]
+    }
+      
+    
+              
+
+     ]
+    }
+
+  
+  
+  
+  
+  
+  
+  
+ ]
+}
