@@ -211,41 +211,83 @@
     
       {
            
-      "name": "Topic 49",
+      "name": "Topic 49 (Oscar)"
      "children": [
-      {"name": "fuck", "value": 3938},
-      {"name": "life", "value": 3812},
-      {"name": "girl", "value": 6714},
-      {"name": "cuck", "value": 743},
-      {"name": "shit", "value": 743},
-      {"name": "guy", "value": 743},
-      {"name": "hope", "value": 743},
-      {"name": "school", "value": 743},
-      {"name": "black", "value": 743},
-      {"name": "time", "value": 743}
       
-       
-                
+                          
+
+      
+      {"name": "oscar", "value": 3938},
+      {"name": "win", "value": 3812},
+      {"name": "award", "value": 6714},
+      {"name": "woman", "value": 743},
+      {"name": "nomin", "value": 743},
+      {"name": "actress", "value": 743},
+      {"name": "lead", "value": 743},
+      {"name": "youtube", "value": 743},
+      {"name": "ladi", "value": 743},
+      {"name": "academi", "value": 743},             
+      {"name": "masterpiec", "value": 743},
+      {"name": "goe", "value": 743},
+      {"name": "winner", "value": 743},
+      {"name": "land", "value": 743}     
+        {"name": "star", "value": 743},
+        {"name": "golden", "value": 743},
+        {"name": "strong", "value": 743},
+        {"name": "predict", "value": 743},
+        {"name": "friend", "value": 743},
+        {"name": "hous", "value": 743}
+      
+  
+  
+  
+     
+  
+            
 
       
      ]
     },
     
     {
-     "name": "Topic 56",
+     "name": "Topic 56 (nation)"
      "children": [
-      {"name": "fuck", "value": 3534},
-      {"name": "back", "value": 5731},
-      {"name": "start", "value": 7840},
-      {"name": "feel", "value": 5914},
-      {"name": "good", "value": 3416},
-      {"name": "na", "value": 3416},
-      {"name": "shit", "value": 3416},
-      {"name": "man", "value": 3416},
-      {"name": "time", "value": 3416},
-      {"name": "person", "value": 3416}
       
       
+                          
+
+      
+      {"name": "american", "value": 3534},
+      {"name": "home", "value": 5731},
+      {"name": "side", "value": 7840},
+      {"name": "great", "value": 5914},
+      
+      {"name": "movie", "value": 3416},
+      {"name": "lost", "value": 3416},
+      {"name": "million", "value": 3416},
+      
+      {"name": "truth", "value": 3416},
+      {"name": "learn", "value": 3416},
+      {"name": "jewish", "value": 3416},
+      
+      
+       {"name": "told", "value": 3416},
+      {"name": "school", "value": 3416},
+      {"name": "includ", "value": 3416}, 
+      
+       
+       {"name": "destroy", "value": 3416},
+      {"name": "found", "value": 3416},
+      {"name": "bring", "value": 3416},   
+      
+        
+       
+       {"name": "stand", "value": 3416},
+      {"name": "lie", "value": 3416},
+      {"name": "modern", "value": 3416},   
+       {"name": "nation", "value": 3416}     
+      
+    
      ]
     }
   
@@ -270,18 +312,29 @@
            
       "name": "Topic 35",
      "children": [
-      {"name": "fuck", "value": 3938},
-      {"name": "life", "value": 3812},
-      {"name": "cope", "value": 6714},
-      {"name": "sex", "value": 743},
-      {"name": "dick", "value": 743},
-      {"name": "face", "value": 743},
-      {"name": "big", "value": 743},
-      {"name": "work", "value": 743},
-      {"name": "doe", "value": 743},
-      {"name": "problem", "value": 743}
-      
+      {"name": "video", "value": 3938},
+      {"name": "interest", "value": 3812},
+      {"name": "trend", "value": 6714},
+      {"name": "turn", "value": 743},
+      {"name": "art", "value": 743},
+      {"name": "women", "value": 743},
+      {"name": "fall", "value": 743},
+      {"name": "cinematographi", "value": 743},
+      {"name": "return", "value": 743},
+      {"name": "cross", "value": 743},
+       {"name": "number", "value": 743},
+      {"name": "shock", "value": 743},
+       {"name": "refer", "value": 743},
+      {"name": "appreci", "value": 743},
+       {"name": "link", "value": 743},
+      {"name": "artist", "value": 743},
+       {"name": "check", "value": 743},
+      {"name": "natur", "value": 743},
+       {"name": "search", "value": 743},                
+         {"name": "buy", "value": 743}
                  
+                 
+                    
 
       
       
@@ -290,20 +343,41 @@
     
     
     {
-     "name": "Topic 39",
+     "name": "Topic 91()"
      "children": [
-      {"name": "fuck", "value": 3534},
-      {"name": "girl", "value": 5731},
-      {"name": "chad", "value": 7840},
-      {"name": "cuck", "value": 5914},
-      {"name": "peopl", "value": 3416},
-      {"name": "sex", "value": 3416},
-      {"name": "faggot", "value": 3416},
-      {"name": "love", "value": 3416},
-      {"name": "femal", "value": 3416},
-      {"name": "shit", "value": 3416}
+      
+                          
+
+      
+      {"name": "anti", "value": 3534},
+      {"name": "portray", "value": 5731},
+      {"name": "countri", "value": 7840},
+      
+      {"name": "america", "value": 5914},
+      {"name": "histori", "value": 3416},
+      
+      {"name": "sjw", "value": 3416},
+      {"name": "mix", "value": 3416},
+      
+      
+      {"name": "problem", "value": 3416},
+      {"name": "control", "value": 3416},
+      {"name": "turn", "value": 3416},
       
                 
+      
+      
+      {"name": "seriou", "value": 3416},
+      {"name": "disgust", "value": 3416},
+      {"name": "fiction", "value": 3416},
+      {"name": "murder", "value": 3416},
+      {"name": "entertain", "value": 3416},
+      {"name": "commun", "value": 3416},
+      
+        {"name": "trust", "value": 3416},
+      {"name": "group", "value": 3416},
+      {"name": "role", "value": 3416},
+      {"name": "neg", "value": 3416}             
 
      ]
     }
