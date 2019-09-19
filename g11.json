@@ -494,13 +494,8 @@
       "name": "Topic 2",
      "children": [
 
-
-      
       {"name": "inspir", "value": 3938},
-      {"name": "intellig", "value": 3812},
-      {"name": "doubt", "value": 6714},
-      {"name": "stick", "value": 743},
-      {"name": "fi", "value": 743}
+      {"name": "intellig", "value": 3812}
 
       
      ]
