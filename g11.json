@@ -252,41 +252,11 @@
     {
      "name": "Topic 56 (nation)",
      "children": [
-      
-      
-                          
 
       
       {"name": "american", "value": 3534},
       {"name": "home", "value": 5731},
-      {"name": "side", "value": 7840},
-      {"name": "great", "value": 5914},
-      
-      {"name": "movie", "value": 3416},
-      {"name": "lost", "value": 3416},
-      {"name": "million", "value": 3416},
-      
-      {"name": "truth", "value": 3416},
-      {"name": "learn", "value": 3416},
-      {"name": "jewish", "value": 3416},
-      
-      
-       {"name": "told", "value": 3416},
-      {"name": "school", "value": 3416},
-      {"name": "includ", "value": 3416}, 
-      
-       
-       {"name": "destroy", "value": 3416},
-      {"name": "found", "value": 3416},
-      {"name": "bring", "value": 3416},   
-      
-        
-       
-       {"name": "stand", "value": 3416},
-      {"name": "lie", "value": 3416},
-      {"name": "modern", "value": 3416},   
-       {"name": "nation", "value": 3416}     
-      
+      {"name": "side", "value": 7840}
     
      ]
     }
@@ -313,26 +283,8 @@
       "name": "Topic 35",
      "children": [
       {"name": "video", "value": 3938},
-      {"name": "interest", "value": 3812},
-      {"name": "trend", "value": 6714},
-      {"name": "turn", "value": 743},
-      {"name": "art", "value": 743},
-      {"name": "women", "value": 743},
-      {"name": "fall", "value": 743},
-      {"name": "cinematographi", "value": 743},
-      {"name": "return", "value": 743},
-      {"name": "cross", "value": 743},
-       {"name": "number", "value": 743},
-      {"name": "shock", "value": 743},
-       {"name": "refer", "value": 743},
-      {"name": "appreci", "value": 743},
-       {"name": "link", "value": 743},
-      {"name": "artist", "value": 743},
-       {"name": "check", "value": 743},
-      {"name": "natur", "value": 743},
-       {"name": "search", "value": 743},                
-         {"name": "buy", "value": 743}
-                 
+      {"name": "interest", "value": 3812}
+      
                  
                     
 
@@ -350,34 +302,9 @@
 
       
       {"name": "anti", "value": 3534},
-      {"name": "portray", "value": 5731},
-      {"name": "countri", "value": 7840},
-      
-      {"name": "america", "value": 5914},
-      {"name": "histori", "value": 3416},
-      
-      {"name": "sjw", "value": 3416},
-      {"name": "mix", "value": 3416},
+      {"name": "portray", "value": 5731}
       
       
-      {"name": "problem", "value": 3416},
-      {"name": "control", "value": 3416},
-      {"name": "turn", "value": 3416},
-      
-                
-      
-      
-      {"name": "seriou", "value": 3416},
-      {"name": "disgust", "value": 3416},
-      {"name": "fiction", "value": 3416},
-      {"name": "murder", "value": 3416},
-      {"name": "entertain", "value": 3416},
-      {"name": "commun", "value": 3416},
-      
-        {"name": "trust", "value": 3416},
-      {"name": "group", "value": 3416},
-      {"name": "role", "value": 3416},
-      {"name": "neg", "value": 3416}             
 
      ]
     }
