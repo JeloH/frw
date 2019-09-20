@@ -76,8 +76,7 @@
   ],
   "links": [
     
-    {"source": "Myriel", "target": "Myriel2", "value": 2},
-      {"source": "Myrie2", "target": "Myriel3", "value": 2},
+
     {"source": "Mlle.Baptistine", "target": "Myriel", "value": 8},
     {"source": "Mme.Magloire", "target": "Myriel", "value": 10},
     {"source": "Mme.Magloire", "target": "Mlle.Baptistine", "value": 6},
