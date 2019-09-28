@@ -12,6 +12,16 @@
     {"id": "Myriel8", "group": 15},
     {"id": "Myriel9", "group": 15},
     {"id": "Myriel10", "group": 15},
+    {"id": "Myriel11", "group": 15},
+    {"id": "Myriel12", "group": 15},
+    {"id": "Myriel13", "group": 15},
+    {"id": "Myriel14", "group": 15},
+    {"id": "Myriel15", "group": 15},
+    {"id": "Myriel16", "group": 15},
+    {"id": "Myriel17", "group": 15},
+    {"id": "Myriel18", "group": 15},
+    {"id": "Myriel19", "group": 15},
+    {"id": "Myriel20", "group": 15},
 
 
 
@@ -28,10 +38,100 @@
     {"id": "nMyriel8", "group": 16},
     {"id": "nMyriel9", "group": 16},
     {"id": "nMyriel10","group": 16},
+    {"id": "nMyriel11", "group": 16},
+    {"id": "nMyriel12", "group": 16},
+    {"id": "nMyriel13", "group": 16},
+    {"id": "nMyriel14", "group": 16},
+    {"id": "nMyriel15", "group": 16},
+    {"id": "nMyriel16", "group": 16},
+    {"id": "nMyriel17", "group": 16},
+    {"id": "nMyriel18", "group": 16},
+    {"id": "nMyriel19", "group": 16},
+    {"id": "nMyriel20","group": 16},
 
 
 
 
+    
+
+    {"id": "xnMyriel1", "group": 17},
+    {"id": "xnMyriel2", "group": 17},
+    {"id": "xnMyriel3", "group": 17},
+    {"id": "xnMyriel4", "group": 17},
+    {"id": "xnMyriel5", "group": 17},
+    {"id": "xnMyriel6", "group": 17},
+    {"id": "xnMyriel7", "group": 17},
+    {"id": "xnMyriel8", "group": 17},
+    {"id": "xnMyriel9", "group": 17},
+    {"id": "xnMyriel10","group": 17},
+    {"id": "xnMyriel11", "group": 17},
+    {"id": "xnMyriel12", "group": 17},
+    {"id": "xnMyriel13", "group": 17},
+    {"id": "xnMyriel14", "group": 17},
+    {"id": "xnMyriel15", "group": 17},
+    {"id": "xnMyriel16", "group": 17},
+    {"id": "xnMyriel17", "group": 17},
+    {"id": "xnMyriel18", "group": 17},
+    {"id": "xnMyriel19", "group": 17},
+    {"id": "xnMyriel20","group": 17},
+
+    
+    
+    
+    
+
+    {"id": "znMyriel1", "group": 18},
+    {"id": "znMyriel2", "group": 18},
+    {"id": "znMyriel3", "group": 18},
+    {"id": "znMyriel4", "group": 18},
+    {"id": "znMyriel5", "group": 18},
+    {"id": "znMyriel6", "group": 18},
+    {"id": "znMyriel7", "group": 18},
+    {"id": "znMyriel8", "group": 18},
+    {"id": "znMyriel9", "group": 18},
+    {"id": "znMyriel10","group": 18},
+    {"id": "znMyriel11", "group": 18},
+    {"id": "znMyriel12", "group": 18},
+    {"id": "znMyriel13", "group": 18},
+    {"id": "znMyriel14", "group": 18},
+    {"id": "znMyriel15", "group": 18},
+    {"id": "znMyriel16", "group": 18},
+    {"id": "znMyriel17", "group": 18},
+    {"id": "znMyriel18", "group": 18},
+    {"id": "znMyriel19", "group": 18},
+    {"id": "znMyriel20","group": 18},
+
+    
+    
+    
+    
+    
+    
+
+    {"id": "dnMyriel1", "group": 19},
+    {"id": "dnMyriel2", "group": 19},
+    {"id": "dnMyriel3", "group": 19},
+    {"id": "dnMyriel4", "group": 19},
+    {"id": "dnMyriel5", "group": 19},
+    {"id": "dnMyriel6", "group": 19},
+    {"id": "dnMyriel7", "group": 19},
+    {"id": "dnMyriel8", "group": 19},
+    {"id": "dnMyriel9", "group": 19},
+    {"id": "dnMyriel10","group": 19},
+    {"id": "dnMyriel11", "group": 19},
+    {"id": "dnMyriel12", "group": 19},
+    {"id": "dnMyriel13", "group": 19},
+    {"id": "dnMyriel14", "group": 19},
+    {"id": "dnMyriel15", "group": 19},
+    {"id": "dnMyriel16", "group": 19},
+    {"id": "dnMyriel17", "group": 19},
+    {"id": "dnMyriel18", "group": 19},
+    {"id": "dnMyriel19", "group": 19},
+    {"id": "dnMyriel20","group": 19},
+
+    
+    
+    
     
     {"id": "Myriel", "group": 1},
     {"id": "Napoleon", "group": 1},
