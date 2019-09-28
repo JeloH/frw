@@ -54,27 +54,28 @@
 
 
     
+                    
 
-    {"id": "xnMyriel1", "group": 17},
-    {"id": "xnMyriel2", "group": 17},
-    {"id": "xnMyriel3", "group": 17},
-    {"id": "xnMyriel4", "group": 17},
-    {"id": "xnMyriel5", "group": 17},
-    {"id": "xnMyriel6", "group": 17},
-    {"id": "xnMyriel7", "group": 17},
-    {"id": "xnMyriel8", "group": 17},
-    {"id": "xnMyriel9", "group": 17},
-    {"id": "xnMyriel10","group": 17},
-    {"id": "xnMyriel11", "group": 17},
-    {"id": "xnMyriel12", "group": 17},
-    {"id": "xnMyriel13", "group": 17},
-    {"id": "xnMyriel14", "group": 17},
-    {"id": "xnMyriel15", "group": 17},
-    {"id": "xnMyriel16", "group": 17},
-    {"id": "xnMyriel17", "group": 17},
-    {"id": "xnMyriel18", "group": 17},
-    {"id": "xnMyriel19", "group": 17},
-    {"id": "xnMyriel20","group": 17},
+    {"id": "actor", "group": 17},
+    {"id": "guy", "group": 17},
+    {"id": "hope", "group": 17},
+    {"id": "director", "group": 17},
+    {"id": "music", "group": 17},
+    {"id": "act", "group": 17},
+    {"id": "bore", "group": 17},
+    {"id": "great", "group": 17},
+    {"id": "sound", "group": 17},
+    {"id": "time","group": 17},
+    {"id": "day", "group": 17},
+    {"id": "cinema", "group": 17},
+    {"id": "theater", "group": 17},
+    {"id": "big", "group": 17},
+    {"id": "save", "group": 17},
+    {"id": "song", "group": 17},
+    {"id": "shot", "group": 17},
+    {"id": "money", "group": 17},
+    {"id": "role", "group": 17},
+    {"id": "job","group": 17},
   
 
     
