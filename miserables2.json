@@ -62,8 +62,10 @@
     
     
 
-{"source": "peopl", "target": "person", "value": 6}
-    
+{"source": "peopl", "target": "man", "value": 6},
+    {"source": "man", "target": "person", "value": 6},
+    {"source": "peron", "target": "men", "value": 6}
+
     
     
   ]
