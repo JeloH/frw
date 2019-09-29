@@ -65,6 +65,7 @@
     {"source": "movi", "target": "stori", "value": 7},
     {"source": "movi", "target": "play", "value": 7},
 
+    {"source": "bad", "target": "fuck", "value": 7},
     
     {"source": "life", "target": "love", "value": 7},
     {"source": "life", "target": "feel", "value": 7},
@@ -73,7 +74,10 @@
     {"source": "great", "target": "wow", "value": 7},
     {"source": "great", "target": "amaz", "value": 7},
     
+
     
+    {"source": "interest", "target": "pretti", "value": 7},
+
     
   
     {"source": "die", "target": "hell", "value": 7},
