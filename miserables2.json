@@ -193,20 +193,7 @@
     
 
 
-    {"source": "Mme.Magloire", "target": "Mlle.Baptistine", "value": 6},
-
-
-
-
-
-
-    
-    {"source": "Mme.Hucheloup", "target": "Grantaire", "value": 1},
-    {"source": "Mme.Hucheloup", "target": "Bahorel", "value": 1},
-    {"source": "Mme.Hucheloup", "target": "Courfeyrac", "value": 1},
-    {"source": "Mme.Hucheloup", "target": "Gavroche", "value": 1},
-    {"source": "Mme.Hucheloup", "target": "Enjolras", "value": 1}
-
+    {"source": "Mme.Magloire", "target": "Mlle.Baptistine", "value": 6}
     
     
     
