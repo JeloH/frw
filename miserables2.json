@@ -48,20 +48,8 @@
     {"id": "talk", "group":2},
     {"id": "start", "group":2},
     {"id": "day", "group":2},
-    {"id": "men","group":2},
-
-
-
-
+    {"id": "men","group":2}
     
-     
-    {"id": "Mlle.Baptistine", "group": 1},
-    
-    {"id": "Mme.Magloire", "group": 1},
-    
-    {"id": "Mme.Hucheloup", "group": 8}
-
-
 
 
     
@@ -74,11 +62,7 @@
     
     
 
-{"source": "peopl", "target": "person", "value": 6},
-    
-    {"source": "men", "target": "Mlle.Baptistine", "value": 6}
-    
-    
+{"source": "peopl", "target": "person", "value": 6}
     
     
     
