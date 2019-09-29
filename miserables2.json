@@ -26,29 +26,28 @@
 
 
 
-                        
+    
 
-
-    {"id": "peopl", "group":2},
-    {"id": "watch", "group":2},
-    {"id": "comment", "group":2},
-    {"id": "hate", "group":2},
-    {"id": "befor", "group":2},
-    {"id": "time", "group":2},
-    {"id": "mani", "group":2},
-    {"id": "man", "group":2},
-    {"id": "happen", "group":2},
-    {"id": "stop","group":2},
-    {"id": "interest", "group":2},
-    {"id": "pretti", "group":2},
-    {"id": "hell", "group":2},
-    {"id": "person", "group":2},
-    {"id": "die", "group":2},
-    {"id": "mind", "group":2},
-    {"id": "talk", "group":2},
-    {"id": "start", "group":2},
-    {"id": "day", "group":2},
-    {"id": "men","group":2}
+    {"id": "shit", "group":2},
+    {"id": "girl", "group":2},
+    {"id": "feel", "group":2},
+    {"id": "plot", "group":2},
+    {"id": "suppos", "group":2},
+    {"id": "friend", "group":2},
+    {"id": "weird", "group":2},
+    {"id": "glad", "group":2},
+    {"id": "women", "group":2},
+    {"id": "dumb","group":2},
+    {"id": "definit", "group":2},
+    {"id": "confus", "group":2},
+    {"id": "honestli", "group":2},
+    {"id": "relat", "group":2},
+    {"id": "night", "group":2},
+    {"id": "kinda", "group":2},
+    {"id": "spoil", "group":2},
+    {"id": "joke", "group":2},
+    {"id": "eye", "group":2},
+    {"id": "type","group":2}
     
 
 
@@ -61,9 +60,9 @@
     
     
 
-{"source": "peopl", "target": "man", "value": 6},
-{"source": "peopl", "target": "person", "value": 6},
-{"source": "peopl", "target": "men", "value": 6}
+{"source": "actor", "target": "director", "value": 6},
+{"source": "actor", "target": "cinema", "value": 6},
+{"source": "actor", "target": "act", "value": 6}
 
     
     
