@@ -101,7 +101,7 @@
     {"id": "eye", "group": 18},
     {"id": "type", "group": 18},
     
-        {"id": "Myriel", "group": 1},
+     
     {"id": "Napoleon", "group": 1},
     {"id": "Mlle.Baptistine", "group": 1},
     {"id": "Mme.Magloire", "group": 1},
@@ -191,21 +191,19 @@
   
     
     
-    
-    {"source": "Napoleon", "target": "Myriel", "value": 1},
-    {"source": "Mlle.Baptistine", "target": "Myriel", "value": 8},
-    {"source": "Mme.Magloire", "target": "Myriel", "value": 10},
+
+
     {"source": "Mme.Magloire", "target": "Mlle.Baptistine", "value": 6},
-    {"source": "CountessdeLo", "target": "Myriel", "value": 1},
-    {"source": "Geborand", "target": "Myriel", "value": 1},
-    {"source": "Champtercier", "target": "Myriel", "value": 1},
-    {"source": "Cravatte", "target": "Myriel", "value": 1},
-    {"source": "Count", "target": "Myriel", "value": 2},
-    {"source": "OldMan", "target": "Myriel", "value": 1},
+
+
+
+
+
+
     {"source": "Valjean", "target": "Labarre", "value": 1},
     {"source": "Valjean", "target": "Mme.Magloire", "value": 3},
     {"source": "Valjean", "target": "Mlle.Baptistine", "value": 3},
-    {"source": "Valjean", "target": "Myriel", "value": 5},
+
     {"source": "Marguerite", "target": "Valjean", "value": 1},
     {"source": "Mme.deR", "target": "Valjean", "value": 1},
     {"source": "Isabeau", "target": "Valjean", "value": 1},
@@ -447,6 +445,10 @@
     {"source": "Mme.Hucheloup", "target": "Gavroche", "value": 1},
     {"source": "Mme.Hucheloup", "target": "Enjolras", "value": 1}
 
+    
+    
+    
+    
     
   ]
 }
