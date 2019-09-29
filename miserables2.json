@@ -80,9 +80,9 @@
 
     
   
-    {"source": "die", "target": "hell", "value": 7},
-    {"source": "die", "target": "hate", "value": 7},
-    {"source": "die", "target": "stop", "value": 7},
+    {"source": "hate", "target": "hell", "value": 7},
+    {"source": "hate", "target": "die", "value": 7},
+    {"source": "hate", "target": "stop", "value": 7},
     
     
 
