@@ -25,45 +25,53 @@
     {"id": "bore", "group":1},
 
 
-
     
 
+    {"id": "white", "group":2},
+    {"id": "movi", "group":2},
+    {"id": "black", "group":2},
+    
+    {"id": "peopl", "group":2},
+    {"id": "fuck", "group":2},
+    {"id": "racist", "group":2},
+    
+    {"id": "race", "group":2},
+    
+    {"id": "trailer", "group":2},
+    {"id": "guy", "group":2},
+    {"id": "peel","group":2},
     {"id": "shit", "group":2},
-    {"id": "girl", "group":2},
-    {"id": "feel", "group":2},
-    {"id": "plot", "group":2},
-    {"id": "suppos", "group":2},
-    {"id": "friend", "group":2},
-    {"id": "weird", "group":2},
-    {"id": "glad", "group":2},
-    {"id": "women", "group":2},
-    {"id": "dumb","group":2},
-    {"id": "definit", "group":2},
-    {"id": "confus", "group":2},
-    {"id": "honestli", "group":2},
-    {"id": "relat", "group":2},
-    {"id": "night", "group":2},
-    {"id": "kinda", "group":2},
-    {"id": "spoil", "group":2},
-    {"id": "joke", "group":2},
-    {"id": "eye", "group":2},
-    {"id": "type","group":2}
+    
+    {"id": "jordan", "group":2},
+    {"id": "comedi", "group":2},
+    {"id": "good", "group":2},
+    
+    {"id": "scari", "group":2},
+    {"id": "evil", "group":2},
+    {"id": "horror", "group":2},
+    
+    {"id": "racial", "group":2},
+    {"id": "show", "group":2},
+    {"id": "racism","group":2}
     
 
-
-    
-    
+      
   ],
   "links": [
     
+ 
 
+{"source": "racism", "target": "white", "value": 6},
+{"source": "racism", "target": "black", "value": 6},
+{"source": "racism", "target": "racist", "value": 6},
+{"source": "racism", "target": "race", "value": 6},
+    
+{"source": "horror", "target": "evil", "value": 6},
+{"source": "horror", "target": "scari", "value": 6},
     
     
-
-{"source": "actor", "target": "director", "value": 6},
-{"source": "actor", "target": "cinema", "value": 6},
-{"source": "actor", "target": "act", "value": 6}
-
+{"source": "fuck", "target": "shit", "value": 6}
+    
     
     
   ]
