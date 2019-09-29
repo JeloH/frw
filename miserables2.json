@@ -17,6 +17,7 @@
     {"id": "big", "group":1},
     {"id": "save", "group":1},
     {"id": "song", "group":1},
+    
     {"id": "shot", "group":1},
     {"id": "money", "group":1},
     {"id": "role", "group":1},
@@ -59,7 +60,19 @@
   ],
   "links": [
     
- 
+
+{"source": "actor", "target": "director", "value": 6},
+{"source": "actor", "target": "act", "value": 6},
+{"source": "actor", "target": "cinema", "value": 6},
+{"source": "actor", "target": "theater", "value": 6},
+    
+{"source": "music", "target": "song", "value": 6},
+{"source": "music", "target": "sound", "value": 6},
+    
+ {"source": "time", "target": "day", "value": 6},
+  
+       
+    
 
 {"source": "racism", "target": "white", "value": 6},
 {"source": "racism", "target": "black", "value": 6},
