@@ -1,0 +1,91 @@
+﻿{
+ "name": "Hilight Latent Topics",
+ "children": [
+  {
+      "name": "people",
+   "children": [
+     
+     
+       {
+     "name": "cluster",
+     "children": [
+      {"name": "AgglomerativeCluster", "value": 3938},
+      {"name": "CommunityStructure", "value": 3812},
+      {"name": "HierarchicalCluster", "value": 6714},
+      {"name": "MergeEdge", "value": 743}
+     ]
+    },
+    {
+     "name": "graph",
+     "children": [
+      {"name": "BetweennessCentrality", "value": 3534},
+      {"name": "LinkDistance", "value": 5731},
+      {"name": "MaxFlowMinCut", "value": 7840},
+      {"name": "ShortestPaths", "value": 5914},
+      {"name": "SpanningTree", "value": 3416}
+     ]
+    },
+    {
+     "name": "optimization",
+     "children": [
+      {"name": "AspectRatioBanker", "value": 7074}
+     ]
+    },
+     
+     
+  {
+     
+     
+     
+     
+     "name": "Topic 87",
+     "children": [
+      
+     
+      
+      {"name": "people", "value": 3938},
+      {"name": "virus ", "value": 3812},
+      {"name": "day ", "value": 6714}, 
+      {"name": "bad ", "value": 6714}, 
+      {"name": "stop  ", "value": 6714}, 
+      {"name": "news ", "value": 6714}, 
+
+      {"name": "worse ", "value": 6714}, 
+      {"name": "days ", "value": 6714}, 
+      {"name": "big   ", "value": 6714}, 
+
+      {"name": "understand  ", "value": 6714},
+     
+      {"name": " sick ", "value": 6714},
+      {"name": "great  ", "value": 6714},
+      {"name": "spread  ", "value": 6714},
+      {"name": "start  ", "value": 6714},
+      {"name": "person  ", "value": 6714},
+      {"name": "told  ", "value": 6714},
+    
+          {"name": "contact  ", "value": 6714},
+          {"name": "family  ", "value": 6714},
+          {"name": "spreading  ", "value": 6714},
+          {"name": "coming  ", "value": 6714}
+     
+      
+     
+      
+      
+     ]
+    }
+    
+        ]
+    }
+
+ 
+
+  
+  
+  
+  
+  
+  
+  
+ ]
+}
